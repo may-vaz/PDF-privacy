@@ -11,6 +11,7 @@ You can reach him at (123) 456-7890 or john.smith@google.com.
 He lives at 1600 Amphitheatre Parkway, Mountain View, California.
 
 REPLACED TEXT
+
 [PERSON] works at [ORG].
 You can reach him at [PHONE] or [EMAIL].
 He lives at [ADDRESS], [GPE], [GPE].
